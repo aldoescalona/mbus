@@ -498,7 +498,7 @@ h6 { font-size: 1.8em; line-height: 1.3em; }
 .inner p {
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 700;
-  font-size: 8.75em !important;
+  font-size: 7.75em !important;
   letter-spacing: .05em;
   line-height: 150px;
   margin:0;
@@ -517,7 +517,7 @@ h6 { font-size: 1.8em; line-height: 1.3em; }
 
   @media (max-width: 1400px) {
     .inner p {
-      font-size: 6.75em !important;
+      font-size: 5.75em !important;
     }
   }
   @media (max-width: 768px) {
